@@ -5,3 +5,6 @@ git commit
 git commit -v
 git status
 git diff
+git branch で確認
+git pull origin main でアップデート
+git switch -c demo でdemoブランチを作成
